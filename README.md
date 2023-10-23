@@ -5,6 +5,7 @@ I'm a Computer Science student at [Wrocław University of Science and Technology
 - 🎮 Passionate about Game Development
 - 📊 Enthusiastic about Data Science and Programming in Physics and Astrophysics
 - 💼 A young entrepreneur in the making
+- 👨‍💼 Co-founder of Mountain Peaks Studios
 - 🎓 IB Diploma graduate
 
 📻 I'm currently a member of [academic radio LUZ](https://www.luz.pwr.edu.pl/) and an active member of two branches of the Students' Union:
