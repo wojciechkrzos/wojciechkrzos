@@ -14,4 +14,4 @@ I'm a Computer Science student at [Wrocław University of Science and Technology
 
 Let's connect and collaborate on exciting projects! 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealKrzos&show_icons=true&theme=great-gatsby&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-versims-projects.vercel.app/api?username=RealKrzos&show_icons=true&theme=great-gatsby&count_private=true)
