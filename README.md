@@ -15,4 +15,4 @@ I'm a Computer Science student at [Wrocław University of Science and Technology
 Let's connect and collaborate on exciting projects! 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-master-versims-projects.vercel.app/api?username=RealKrzos&show_icons=true&count_private=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats-git-master-versims-projects.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&count_private=true&theme=great-gatsby&exclude_repo=Vercel-next-prisma-tutorial)
+![Top Langs](https://github-readme-stats-git-master-versims-projects.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&count_private=true&theme=great-gatsby&exclude_repo=web-flashcard-app,Vercel-next-prisma-tutorial)
