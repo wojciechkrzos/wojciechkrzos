@@ -1,15 +1,16 @@
-## Hello, I'm Wojtek 👋
+## G'day, Wojtek here 👋
 
 I'm a Computer Science student at [Wrocław University of Science and Technology](https://www.pwr.edu.pl/).
 
-- 🎮 Passionate about Game Development
-- 📊 Enthusiastic about Data Science and Programming in Physics and Astrophysics
-- 💼 A young entrepreneur in the making
 - 👨‍💼 Co-founder of Mountain Peaks Studios
+- 🎮 Game Developer
+- 📊 Data Science, ML and AI in Natural Sciences
+- 💼 Modern Portfolio Theory enjoyer
 - 🎓 IB Diploma graduate
+- 🎙️ Co-creator of Rzuć na Luz! D&D Podcast
 
-📻 I'm currently a member of [academic radio LUZ](https://www.luz.pwr.edu.pl/) and an active member of two branches of the Students' Union:
-- 🖥️ Informatisation Section
-- 📋 Organisation Commission
+📻 Voice of [academic radio LUZ](https://www.luz.pwr.edu.pl/) and a member of the Students' Union:
+- 🖥️ Informatisation 
+- 📋 Organisation
 
-Let's connect and collaborate on exciting projects! 🚀
+Let's connect, collaborate and have fun! 🚀
