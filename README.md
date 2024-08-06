@@ -13,6 +13,7 @@ I'm a Computer Science student at [Wrocław University of Science and Technology
   - Council of the Faculty for Information and Communication Technology
   - Informatisation 
   - Organisation (Former)
+- **Co-founder of** [Mountain Peaks](https://github.com/Mountain-Peaks-Studios)
 - **Boring stuff** on my [LinkedIn](https://www.linkedin.com/in/wkrzos/)
 
 ### In My Free Time 🎉
