@@ -9,9 +9,10 @@ I'm a Computer Science student at [Wrocław University of Science and Technology
 
 ### What I've Been Up To 🥸
 - **Co-creator of** [Rzuć na Luz!](https://open.spotify.com/show/6FXp7DrTCJYAlJrEk87jw4), a D&D Podcast at [academic radio LUZ](https://www.luz.pwr.edu.pl/).
+- **Project Manager at** [Solvro](https://github.com/solvro)
 - **Member of** [WUST Students' Union](https://samorzad.pwr.edu.pl/):
   - Council of the Faculty for Information and Communication Technology
-  - Informatisation 
+  - Informatisation (Former)
   - Organisation (Former)
 - **Boring stuff** on my [LinkedIn](https://www.linkedin.com/in/wkrzos/)
 
