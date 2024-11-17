@@ -4,7 +4,6 @@ I'm a Computer Science student at [Wrocław University of Science and Technology
 
 ### Tech Stack 🛠️
 - **Languages:** Java, C#, C++, Python, OCaml, Scala, GDScript
-- **Game Engines:** Unity, Godot, Monogame
 - **Tools:** GitHub, GitHub Projects, Trello, Jira, Visual Studio, Visual Studio Code, IntelliJ IDEA, PyCharm, Chat GPT, Discord
 
 ### What I've Been Up To 🥸
