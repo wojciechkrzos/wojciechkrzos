@@ -4,8 +4,8 @@ I’m **Wojciech Krzos**, a Computer Science student at [Wrocław University of 
 Dive into my [full coursework portfolio](https://github.com/wkrzos/CompSciPortfolio) for all my class projects and experiments.
 
 ### 🛠 What I’m Up To
-- **Project Manager @** [Koło Naukowe Solvro](https://github.com/solvro)
-- **Active Member of** [WUST Students’ Union](https://samorzad.pwr.edu.pl/)  
+- **President @** [Koło Naukowe Solvro](https://github.com/solvro)
+- **Member of** [WUST Students’ Union](https://samorzad.pwr.edu.pl/)  
   - Council of the Faculty for ICT  
   - (Former) Informatisation & Organisation teams  
 - **Co‑creator of** [Rzuć na Luz!](https://open.spotify.com/show/6FXp7DrTCJYAlJrEk87jw4) – a D&D podcast on [Radio LUZ](https://www.luz.pwr.edu.pl/)  
