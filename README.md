@@ -1,22 +1,27 @@
-## Howdy, folks! 🤠
+## Howdy! 🤠
 
-I’m **Wojciech Krzos**, a Computer Science student at [Wrocław University of Science and Technology](https://www.pwr.edu.pl/).  
-Dive into my [full coursework portfolio](https://github.com/wkrzos/CompSciPortfolio) for all my class projects and experiments.
+Computer Science student wrangling code at [Wrocław University of Science and Technology](https://www.pwr.edu.pl/) and side‑questing through all sorts of ventures.
 
-### 🛠 What I’m Up To
-- **President @** [Koło Naukowe Solvro](https://github.com/solvro)
-- **Member of** [WUST Students’ Union](https://samorzad.pwr.edu.pl/)  
-  - Council of the Faculty for ICT  
-  - (Former) Informatisation & Organisation teams  
-- **Co‑creator of** [Rzuć na Luz!](https://open.spotify.com/show/6FXp7DrTCJYAlJrEk87jw4) – a D&D podcast on [Radio LUZ](https://www.luz.pwr.edu.pl/)  
-- **“Boring” stuff** on my [LinkedIn](https://www.linkedin.com/in/wkrzos/)
+For uni projects: [CompSci Portfolio](https://github.com/wkrzos/CompSciPortfolio).
+
+### 🛠 Main Quests
+
+* **President @** [Solvro](https://github.com/solvro) - strategic student software collective
+* **Active @** [WUST Students’ Union](https://samorzad.pwr.edu.pl/)
+
+  * ICT Faculty Council
+  * (Former) Informatisation & Organisation teams
+
+* **Corporate‑friendly resume things?** [LinkedIn](https://www.linkedin.com/in/wojciechkrzos/)
 
 ### 🎲 Side Quests
-- Amateur cook (always hunting for my next kitchen hack)  
-- Guitarist (jamming to anything remotely jazzy)  
-- MTB rider (trail seeker)  
-- Proud DM of a 3‑year‑running D&D saga  
 
-### 🌐 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/wojciechkrzos/)  
-- [My Website](https://www.wojciechkrzos.com)  
+* Cooking like my life depends on it
+* Guitarist vibing to jazz & game soundtracks
+* MTB trails = dopamine
+* Forever DM of an aging but glorious D\&D campaign (3yo)
+* (atp ex) D\&D Podcast Co‑host [Rzuć na Luz!](https://open.spotify.com/show/6FXp7DrTCJYAlJrEk87jw4) on [Radio LUZ](https://www.luz.pwr.edu.pl/)
+
+### 🌐 Elsewhere
+* [LinkedIn](https://www.linkedin.com/in/wojciechkrzos/)
+* [Website](https://www.wojciechkrzos.com)
